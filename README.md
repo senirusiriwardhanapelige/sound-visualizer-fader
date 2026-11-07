@@ -43,8 +43,3 @@ A slider that moves up and down depending on how loud the sound around it is. Bu
 - `sound_visualizer_fader.ino` — main Arduino sketch
 - `README.md` — this file
 - `.gitignore` — Arduino/ESP8266 ignore rules
-- `LICENSE` — MIT license
-
-## License
-
-MIT — see [LICENSE](LICENSE).
