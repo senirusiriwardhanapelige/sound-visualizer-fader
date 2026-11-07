@@ -1,0 +1,27 @@
+# Arduino / ESP8266
+*.bin
+*.hex
+*.elf
+*.map
+*.o
+*.d
+build/
+.vscode/
+.idea/
+.DS_Thumbs
+Thumbs.db
+
+# Compiled libraries
+*.a
+
+# Serial monitor / logs
+*.log
+serial_output.txt
+
+# ESP8266 Arduino core
+.local15/
+.local16/
+
+# Temporary
+*.tmp
+*.temp
