@@ -3,9 +3,9 @@
 <img width="250" height="250" alt="2026-11-08_12-39-29" src="https://github.com/user-attachments/assets/62f23025-b886-42b0-830d-cb51de93c674" />
 <img width="250" height="250" alt="2026-11-08_12-39-16" src="https://github.com/user-attachments/assets/c6d09769-f978-4793-98ec-b4943bd73887" />
 
+<video width="640" height="480" src="https://raw.githubusercontent.com/senirusiriwardhanapelige/sound-visualizer-fader/master/demo.mp4" controls></video>
 
 A slider that moves up and down depending on how loud the sound around it is. Built on a NodeMCU (ESP-12E) with a motor shield. The board hosts its own WiFi network and a local webpage — **no internet or app needed**.
-
 
 ## How it works
 
@@ -48,3 +48,9 @@ A slider that moves up and down depending on how loud the sound around it is. Bu
 - `sound_visualizer_fader.ino` — main Arduino sketch
 - `README.md` — this file
 - `.gitignore` — Arduino/ESP8266 ignore rules
+- `LICENSE` — MIT license
+- `demo.mp4` — demo video
+
+## License
+
+MIT — see [LICENSE](LICENSE).
