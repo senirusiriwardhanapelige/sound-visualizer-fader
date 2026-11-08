@@ -7,9 +7,6 @@
 A slider that moves up and down depending on how loud the sound around it is. Built on a NodeMCU (ESP-12E) with a motor shield. The board hosts its own WiFi network and a local webpage — **no internet or app needed**.
 
 
-<video width="640" height="480" src="https://github.com/user-attachments/assets/7694b577-8dcc-4f8e-9869-47eb2534b820" controls></video>
-
-
 ## How it works
 
 1. The ESP8266 creates a WiFi access point called `MotorVisualizer` (password `12345678`).
