@@ -1,6 +1,6 @@
 # Sound-Reactive Motorized Fader (ESP8266)
 
-<img width="991" height="1090" alt="2026-11-08_12-20-54" src="https://github.com/user-attachments/assets/a00069d0-a126-4f35-892a-f4f2da5c0f40" />  <img width="2163" height="1319" alt="2026-11-08_12-36-15" src="https://github.com/user-attachments/assets/302b9da4-5d71-4650-b708-5696c62fb745" />
+<img width="591" height="690" alt="2026-11-08_12-20-54" src="https://github.com/user-attachments/assets/a00069d0-a126-4f35-892a-f4f2da5c0f40" />  <img width="1163" height="319" alt="2026-11-08_12-36-15" src="https://github.com/user-attachments/assets/302b9da4-5d71-4650-b708-5696c62fb745" />
 
 
 A slider that moves up and down depending on how loud the sound around it is. Built on a NodeMCU (ESP-12E) with a motor shield. The board hosts its own WiFi network and a local webpage — **no internet or app needed**.
