@@ -6,7 +6,8 @@
 A slider that moves up and down depending on how loud the sound around it is. Built on a NodeMCU (ESP-12E) with a motor shield. The board hosts its own WiFi network and a local webpage — **no internet or app needed**.
 
 
-https://github.com/user-attachments/assets/0f716e62-8924-4eab-b2df-12c606bae61b
+<img width="480" height="270" alt="vidoe_smooth" src="https://github.com/user-attachments/assets/ce5cdce1-e690-45d9-a81d-9d0d099e9f0a" />
+
 
 
 ## How it works
